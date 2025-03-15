@@ -1,0 +1,15 @@
+
+---
+
+# ✅ 2. `LICENSE` (MIT License Example)
+
+```text
+MIT License
+
+Copyright (c) 2025 Sai Teja
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+
+[Shortened for brevity—You can get the full MIT license here: https://choosealicense.com/licenses/mit/]
