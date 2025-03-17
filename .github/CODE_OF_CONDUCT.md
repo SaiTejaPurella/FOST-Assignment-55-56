@@ -13,6 +13,6 @@ Examples of positive behavior include:
 Project maintainers are responsible for clarifying and enforcing our standards.
 
 ## Enforcement
-Instances of abusive behavior may be reported by contacting Sai Teja at [saitejapurella4980@gmail.com].
+Instances of abusive behavior may be reported by contacting Sai Teja or Vamshi at [saitejapurella4980@gmail.com].
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
